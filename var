@@ -22,6 +22,64 @@ print(x) ; //Error
 
 
 
+***** php var
+
+$x = 10 ; 
+echo $y ; // Warning undefined var
+echo @$y; // no warning
+
+
+
+
+***** c# var
+
+int x ; // init to def value
+// def value  number 0 , 0.0  string ""  bool false
+{
+int localx = 100 ;
+var localy = 200 ;
+// var word only in local
+}
+** var Error
+1--
+{
+int x ; //Error  local var must init
+
+}
+
+
+
+
+
+***** vb.net var
+
+dim y as int32
+'global var no value set to 0 0.0 "" false
+dim x = 10 
+x = "Sara"  ' x type changed
+sub s
+dim c as int32   ' c = 0
+' local var no value set to 0 0.0 "" false
+end sub
+
+** note var
+
+1--
+dim x 
+' x set to def
+'def --> 0 = 0.0 = "" = nothing
+' x not have type
+' x ref to nothing
+
+
+
+
+
+***** vb in b4x
+
+dim x as int 
+dim x as string = "sara"
+
 
 
 
