@@ -1,5 +1,28 @@
-javaScript var
+***** javaScript var
 
 var x  = 10
 x = 10
 let x = 10
+
+** var Error
+1--
+print(x) ;  // Error x no defined
+let x ;
+var x ;
+print(x) ; // undefined
+2--
+if (1)
+{
+var c = 10 ;
+let x = 5; 
+}
+print(c) ; //10
+print(x) ; //Error
+
+
+
+
+
+
+
+
