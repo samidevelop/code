@@ -84,3 +84,13 @@
    if("false") then ...
 
 
+
+
+
+
+***** kotlin cast
+
+** kotlin have no cast implicit
+   val x:Int = 1.5 //Error
+   ...
+** use .toString() .toByte() .toInt() after var to convert to other
