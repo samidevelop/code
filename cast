@@ -37,4 +37,34 @@
 
 ***** c# cast
 
-   
+ ** no implicit cast only number with small range to big range
+
+
+
+
+
+
+***** vb.net cast
+
+** to number cast
+   dim x as int = 1
+   x = true  ' -1
+   x = false ' 0
+   x = "2"   ' 2
+   x = "1"+2 ' 3
+** to string
+   "x"+"x" ' xx
+   "x"+1 ' Error  
+   "x"+"1" 'x1
+   "x"+true 'Error
+   x=true ' True
+   x=false 'False
+** "0" "" 0 nothing false in bool IS False other True
+
+
+
+
+
+***** vb b4x cast
+
+
