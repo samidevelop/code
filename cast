@@ -67,4 +67,20 @@
 
 ***** vb b4x cast
 
+** cast to number
+   log(1+"1") ' 2
+   log(1+"X") 'Error
+   log(1+true) 'Error
+   dim x as int  = true 'Error
+   *note log("1"+"1") ' 2
+** cast to String
+   log("x"&1) ' x1
+   log(2&2) ' 22
+   dim x as string = true  'true
+** cast to bool
+   dim y as bool = 1 'Error
+   dim x as bool ="false"
+   if(1) then ..  'Error
+   if("false") then ...
+
 
