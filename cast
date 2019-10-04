@@ -1,0 +1,40 @@
+
+***** javascript cast
+
+** every thing cast to string
+   print("1"+2) //12
+   print(true+"x") //truex
+** bool and number bool cast to 1 and 0
+   print(true+1) //2
+   print(false+1) // 1
+** if ("x"==true) --> false   "x" <> "true"  
+** "" 0 false null  in bool  IS False  Other True
+** "0" IS True
+
+   
+   
+   
+   
+   
+   
+***** php cast
+
+** cast to string
+   echo 2 . "x" ;  //2x  note space after 2 and .
+   echo True . "x" ; //1x
+   echo False . "x" ; //x  note False is nothing
+** cast to number 
+   echo 2 +"2"  ; // 4 
+   echo 2 +"x" ; // 2  no number ignored
+   echo 2 + True ; // 3
+** "" "0" 0 False  in bool is False NULL  Other True
+
+
+
+
+
+
+
+***** c# cast
+
+   
