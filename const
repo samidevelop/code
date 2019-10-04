@@ -52,4 +52,8 @@ dim const x as int  = 1
 
 
 
+***** kotlin const
+
+val x = 1 
+val x:Int  = 1
 
