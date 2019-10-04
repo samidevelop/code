@@ -84,3 +84,13 @@ dim x as string = "sara"
 
 
 
+
+***** kotlin var
+
+var x = 2 
+var x:int 
+var x:int  = 2
+
+
+
+
