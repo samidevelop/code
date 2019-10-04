@@ -1,0 +1,55 @@
+
+***** javascript const
+
+const x ;  // x = undefined
+// use this replace undefined
+// if (y = x)  --> if(x = "undefined")
+const x = 100 ;
+x = 500 ; // x not changed no Error
+
+
+
+
+
+***** php const
+
+const x = "Sara" ; 
+define("x",'sara') ;
+define("x",'sara',true) ; // case insenstive   x = X   default is False
+
+
+
+
+
+
+***** c# const
+
+const int x = 5 ;
+
+
+
+
+
+
+***** vb.net const
+
+const x as int = 1
+const x = 20
+
+
+
+
+
+
+
+
+***** vb b4x const
+
+dim const x as int  = 1
+
+
+
+
+
+
+
