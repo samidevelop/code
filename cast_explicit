@@ -50,4 +50,32 @@ String()
    
    
 
+***** vb.net explicit cast
+
+integer.parse("string")
+n.toString()
+
+
+
+
+
+
+
+***** vb b4x cast
+
+only to string
+   numberFormat()
+   
+   
+
+
+
+
+
+***** kotlin explicit cast
+
+(100) .toString()
+"1".toInt()
+"1.5".toFloat()
+
    
