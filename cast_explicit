@@ -1,0 +1,32 @@
+***** javascript explicit cast
+
+Number()
+Boolean()
+String()
+
+** noteS
+   Boolean(NaN) // false
+   Boolean(null) //false
+   Boolean("0") //true
+   String(NaN) // NaN
+
+
+
+
+
+
+***** php explicit cast
+
+(int) 100
+(integer) 100
+(float) or (real) or (double)
+(string) 200
+(bool) or (boolean) 
+(array)
+
+** noteS
+   (int) "100.5" ; 100
+   (real) "100.5" ; 100.5
+   (bool) "100" ; 1
+   
+   
