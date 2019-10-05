@@ -30,3 +30,24 @@ String()
    (bool) "100" ; 1
    
    
+
+
+
+
+
+***** c# explicit cast
+
+** only number
+   int i = (int) 100.5 ; 100
+** string to int
+   int.parse("string"); // numeric string
+   double.parse("string") ; // numeric string
+** any thing to string
+   (100).ToStrig();
+   x.ToString();
+   
+   
+   
+   
+
+   
