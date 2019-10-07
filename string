@@ -23,4 +23,23 @@
  ** support spc char and hex
  ** in c# '' only 1 CHAR 
  
-    
+
+
+
+***** vb.net string
+ ** not support spc char and hex
+
+
+
+
+***** vb b4x string
+ ** not support spc char and hex
+ 
+ 
+ 
+ 
+***** kotlin string
+** support spc char and hex
+ ** in kotlin '' only 1 CHAR 
+
+
