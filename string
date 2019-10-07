@@ -1,0 +1,26 @@
+***** javascript string
+ ** var in string
+    print(`hello ${s}`) ;
+ ** spc char support
+    print("\n hello") ; new line 
+ ** hex 
+    print(0x10);
+ 
+
+
+***** php string
+ ** var in string only ""
+   echo "hello $s" ; can not use const
+ ** spc char support only ""
+   echo "\n hello " ;
+ ** hex support 
+   echo 0x10 ;
+ 
+
+
+
+***** c# string
+ ** support spc char and hex
+ ** in c# '' only 1 CHAR 
+ 
+    
