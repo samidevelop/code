@@ -1,0 +1,43 @@
+
+* js if 
+ if()
+ {
+ }
+ 
+
+* php if
+ if()
+ {
+ }
+ if():
+ ....
+ endif
+
+
+* c# if
+ if()
+ {}
+
+
+
+* vb.net if
+ if  then  ....
+ if  then
+ end if
+ 
+
+
+* vb b4x if
+ if  then  ....
+ if  then
+ end if
+
+
+
+* kotlin if
+ 
+ if ()
+ {
+ }
+ var x = if (true) 10 else 20  ; else require 
+ 
