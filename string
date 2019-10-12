@@ -33,7 +33,7 @@
 
 
 ***** vb b4x string
- ** not support spc char and hex
+ **  support only hex
  
  
  
