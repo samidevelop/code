@@ -1,0 +1,28 @@
+** js func
+ function (x)
+ {
+ print(x) // if x not set undefined   x()
+ }
+ function (x = 10)
+ {
+ print(x) // if not set print 10
+ }
+var y = x // asign func together
+y() 
+
+
+** php func
+ function n($x)
+ {
+ echo $x // if x not set  warning  undefined var    n()
+ }
+ function n( $x = 10)
+ {
+ echo $x; // if x not set --> 10 printed
+ }
+ $ff='f' ; //asign function to new var
+ $ff(); // $ is require
+ 
+ 
+** 
+ 
