@@ -24,5 +24,25 @@ y()
  $ff(); // $ is require
  
  
-** 
+** c#
+
+void x( int i =10)
+{
+// if i not set print 10
+}
+void reffunc( ref int i ) // ref can not have default value
+{
+}
+reffunc(ref c) // require ref  // require var
+//delegate
+delegate void del(int i) ;
+del d = (i) => console.WriteLine(i) ;
+d = (i) => {i = 20 ; console.WriteLine(i)} ;
+// add more func
+d+= (i) => .....
+d+= new del(xx) ; //   void xx( int i) {} ;
+
+
+
+
  
