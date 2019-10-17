@@ -43,6 +43,7 @@
  ** in kotlin '' only 1 CHAR 
  ** math operation in string
    print("${2+2}") ; 4
+   println("${$i+2"}") // Error
  ** var in string
    print("$y")
  
