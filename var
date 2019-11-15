@@ -18,6 +18,9 @@ let x = 5;
 }
 print(c) ; //10
 print(x) ; //Error
+if(true)
+let x = 10 /error  --> { let x = 10 } 
+
 
 
 
